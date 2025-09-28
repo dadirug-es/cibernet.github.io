@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "104b64e7834c646f",
+    "type": "split",
+    "children": [
+      {
+        "id": "066345c15837d0ab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "quesada/README.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "138cfcb7c44fc35c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c57092ac7d0c382a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a82eed06af105870",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c29feb1e2b72cd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14006946e046fb23",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bffd6743bf5273c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b41cbf389e87f0cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "quesada/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "066345c15837d0ab",
+  "lastOpenFiles": [
+    "quesada/README.md",
+    "README.md",
+    "SUMMARY.md",
+    "spaguetti_con_esparragos_trigueros_y_gambas/README.md",
+    "solomillo_al_hojaldre/README.md"
+  ]
+}
